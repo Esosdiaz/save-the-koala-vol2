@@ -139,6 +139,13 @@ army green: 41521F;
 .sixth-section p{
 	font-size:12px;
 }
+.well{
+	width: 100%;
+	height: auto;
+	background-color: #41521F;
+	color: white;
+	border: none;
+}
 .footer{
 	background-color: #41521F;
 	height: auto;
