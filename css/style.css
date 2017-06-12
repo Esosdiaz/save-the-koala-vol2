@@ -1,0 +1,158 @@
+/*
+wood brown: A89F68;
+army green: 41521F;
+*/
+.body{
+	font-family: 'Lato', sans-serif;
+}
+.navbar-default{
+	border: none;
+	background-color: transparent;	
+} 
+.navbar-default .navbar-nav > li > a{
+	color: white;
+	font-weight: bolder;
+}
+.navbar-default .navbar-brand{
+	color: white;
+	font-weight: bolder;	
+}
+.first-section{
+	background-image: url(../img/portada.jpg);
+	background-repeat: no-repeat;
+	height: 100vh;
+	background-size: cover;
+	background-position: center center;
+}
+.bienvenida h2, .bienvenida p{
+	color: white;
+}
+.bienvenida{
+	position: absolute;
+	top: 200px;
+}
+.btn-default{
+	background-color: #41521F;
+	border: none;
+	color: white;
+}
+.second-section{
+	height: auto;
+	margin:auto;
+	overflow: hidden;
+	padding-top: 10vh;
+	padding-bottom: 10vh;
+}
+.mama-koala{
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: center center;
+}
+.second-section h2, .second-section h4, .second-section a{
+	color: #A89F68;
+}
+.third-section{
+	padding: 10vh;
+	background-color: #A89F68;
+}
+.third-section h2{
+	color: #41521F;
+}
+.third-section h5, .third-section p{
+	color: #fff;
+}
+.third-section img{
+	border-color: #fff;
+  	border-style: solid;
+  	border-width: thick;
+}
+.fourth-section{
+	color: #fff;
+  	background-image: url(../img/all.jpg);
+  	background-size: cover;
+  	background-repeat: no-repeat;
+  	background-position: center;
+  	height: 100vh;
+  	width: 100%;
+  	padding-bottom: 10vh;
+  	padding-top: 10vh;
+}
+.fifth-section{
+	background-color: #fff;
+	height: auto;
+	padding-bottom: 10vh;
+	padding-top: 10vh;
+}
+.fifth-section h3, .fifth-section .icons, .parrafos a{
+	color: #A89F68;
+} 
+.fifth-section .icons{
+	font-size: 4em;
+}
+.parrafos{
+	padding-top: 3vh;
+}
+.sixth-section{
+	background-color: #A89F68;
+	height: auto;
+	width:100%;
+	padding:10vh;
+}
+.columnas{
+	padding-top: 3vh;
+}
+.sixth-section h3{
+	color: #41521F
+}
+.raya{
+	height: 1px;
+    border: 0;
+    background-color: white;
+    position: relative;
+    top: -4px;;
+}
+.peso, .numero, .divisa{
+	color: white;
+}
+.sixth-section h6{
+	font-weight: bolder;
+}
+.peso{
+	font-size: 15px;
+	position: absolute;
+    top: 64px;
+    left: 93px;
+}
+.numero{
+	font-size: 80px;	
+}
+.divisa {
+    position: absolute;
+    top: 136px;
+    left: 193px;
+    font-weight: bolder;
+}
+.simbolos{
+	position: absolute;
+	top: 40px;
+}
+.sixth-section p{
+	font-size:12px;
+}
+.footer{
+	background-color: #41521F;
+	height: auto;
+	width:100%;
+	padding:10vh;
+}
+.footer h6, .footer a{
+	font-size:10px;
+	color: #A89F68;
+}
+.footer ul {
+	list-style: none
+}
+.footer p{
+	color: white;
+	font-size: 10px;
+}
