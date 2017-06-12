@@ -127,9 +127,9 @@ army green: 41521F;
 	font-size: 80px;	
 }
 .divisa {
-    position: absolute;
-    top: 136px;
-    left: 193px;
+    position: relative;
+    top: -32px;
+    left: 58px;
     font-weight: bolder;
 }
 .simbolos{
